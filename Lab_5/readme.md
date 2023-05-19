@@ -10,15 +10,17 @@
 
      Ссылка на документ - https://docs.cntd.ru/document/1200075565
 
-2. Была использована программа Xmind
+2. Была использована программа Xmind и Freeplane
 
 3. Результат
 
 <img width="2682" alt="скрин" src="https://github.com/GavrilovaAnna/Authentication-system-6-semestr/assets/91331145/39aedc00-5e2f-40c7-b1c9-634509d71ed8">
 
+<img width="1230" alt="скрин mm freeplan" src="https://github.com/GavrilovaAnna/Authentication-system-6-semestr/assets/91331145/bd673fe6-4717-48d9-b87f-367bd7adc500">
+
 #### Оценка результата
 
-Был изучен ГОСТ Р 53114-2008.  Обеспечение информационной безопасности в организации и была построена mind-карта в программе Xmind.
+Был изучен ГОСТ Р 53114-2008.  Обеспечение информационной безопасности в организации и была построена mind-карта в программе Xmind и Freeplane.
 
 ##### Вывод
 
