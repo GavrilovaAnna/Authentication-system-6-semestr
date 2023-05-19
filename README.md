@@ -7,3 +7,4 @@
 3. Развертывание системы мониторинга ELK Stack (ElasticSearch)
 4. Развертывание Threat intelligence Platform OpenCTI
 5. Mind-карта ГОСТа
+6. Применение средств и методов OSINT
