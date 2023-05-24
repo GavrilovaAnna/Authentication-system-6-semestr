@@ -1,10 +1,6 @@
 ---
 title: "Создание Static web page"
 author: Гаврилова Анна
-format: 
-    md:
-        output-file: README.md
-engine: knitr
 ---
 
 ## Цель работы
@@ -15,7 +11,7 @@ engine: knitr
 
 Был создан сайт с использованием Quarto и Github Pages:
 
-ссылка
+[ссылка](http://localhost:4575)
 
 ## Выводы
 
