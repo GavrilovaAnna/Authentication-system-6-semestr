@@ -9,7 +9,7 @@
 
 Был создан сайт с использованием Quarto и Github Pages:
 
-[ссылка](http://localhost:4575) 
+[[ссылка](http://localhost:4575) ](https://gavrilovaanna.github.io/site_quatro/)
 
 ## Выводы
 
